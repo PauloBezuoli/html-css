@@ -1,0 +1,10 @@
+diferença entre ID e CLASS
+
+id(chamada via elemento#id) só pode usar 1 por elemento
+
+classe/class(chamada .class)pode ser múltimpla
+
+
+posso colocar mais de um id e mais de uma classe em um elemento
+
+tag <span> seleciona trecho do texto

@@ -1,0 +1,54 @@
+Círculo cromático
+
+Armonia de cores
+
+armonia/sincronia - fica mais bonito
+
+cores primárias
+amarelo
+vermelho
+azul
+
+cores secundárias
+larnaja
+violeta
+verde
+
+terciárias
+junção primária e secundária
+
+amarelo esverdeado
+amarelo alaranjado
+vermelho alaranjado
+vermelho arroxeado
+azul arroxeado
+azul esverdeado
+
+temperatura de cor
+cores frias/cores quentes
+
+
+Paleta de cores
+de 3 a 5 cores(isento branco e preto)
+
+seguir cor primária do logo
+
+
+cores complementares
+(totalmente opostas no c´írculo cromático)
+
+core análogas
+irmãs/similaridade/vizinha
+
+
+cores analogas com 1 oposta complementar
+
+cores analogas relacionadas
+
+
+monocromia
+mesma cor
+difere saturação e luminosidade(degradê)
+
+
+

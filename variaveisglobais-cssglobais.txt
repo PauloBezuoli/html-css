@@ -1,0 +1,11 @@
+:root {--variavel: ;
+       --fonte-padrao: Arial, Verdana
+} (variaveis globais)
+
+
+padronizar todos os elementos com css
+
+* {}
+
+
+

@@ -1,0 +1,50 @@
+box-model
+
+height - altura
+
+width - largura
+
+border - linha em volta interna
+
+padding - espaço em volta interno
+
+margin - espaço em volta externo
+
+outline - linha externa
+
+
+
+tipos de caixa
+
+box-level
+sempre se inicial na próxima linha
+width/largura inteira da tela
+ex: <div>
+h1 até h6
+p
+main
+header
+nav
+article
+aside
+footer
+form
+video
+
+
+inline-level
+se inicia ao lado
+tamanho/largura proporcional ao elemento
+ex: <span>
+a
+code
+small
+strong
+em
+sup sub
+label
+button
+input
+select
+
+teste
