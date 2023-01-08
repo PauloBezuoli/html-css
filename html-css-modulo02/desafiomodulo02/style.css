@@ -22,6 +22,7 @@ header {
         background-color: var(--cor3);
         padding: 10px;
         box-shadow: 2px 2px 3px rgba(0, 0, 0, 0.400);
+        text-align: left;
     }
     
     nav > a {
@@ -75,18 +76,18 @@ main {
     border-bottom-right-radius: 10px;
 }
 
-a::after {
+main a::after {
     content: '\00A0\1F517';
 }
 
-a {
+main a {
     text-decoration: none;
     color: #063d1e;
     font-weight: bold;
     background-color: lightgreen;
     }
 
-a:hover {
+main a:hover {
     color: white;
 }
 
