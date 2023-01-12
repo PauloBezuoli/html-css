@@ -1,0 +1,55 @@
+body {
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+table {
+    width: 500px;
+    border-collapse: collapse;
+    background-image: url('https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS8HL9hsQ-zG_YK_WjP_bkQ5-cUmMcpbhjmQQ&usqp=CAU');
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: contain;
+    position: relative;
+}
+
+thead > tr > th {
+    position: sticky;
+    top: -1px;
+}
+
+thead, th {
+    color: white;
+    
+}
+
+th {
+    background-color: rgba(12, 23, 128, 0.788);
+}
+
+td, th {
+    border: 2px solid black;
+    padding: 10px;
+}
+
+.num {
+    text-align: right;
+    font-weight: bolder;
+}
+
+.tdfoot {
+    font-weight: bolder;
+    text-align: center;
+    background-color: lime;
+}
+
+tbody > tr:nth-child(2n) {
+    background-color: rgba(127, 255, 212, 0.555);
+    color: white;
+}
+
+
+caption {
+    font-size: 2em;
+    padding: 10px;
+    background-color: aqua;
+}

@@ -1,0 +1,7 @@
+todas as tabelas mais simples
+hierarquias
+
+table (table) = tabela
+table row (tr)= linha da tabela
+table header (th)= cabeçalho da tabela
+table data (td)= dados da tabela
